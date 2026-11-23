@@ -1,4 +1,4 @@
-# Python & AI Studies
+# Studies
 
 A personal and independent learning repository dedicated to studying **Python, Artificial Intelligence, and related engineering concepts**.
 
