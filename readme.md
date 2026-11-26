@@ -1,160 +1,79 @@
-# Learning Hub
+<div align="center">
 
-✨ _Meu cantinho para aprender, criar e evoluir na tecnologia._
+# Learning Hub 🌷
 
-Repositório pessoal de estudos independentes em programação, engenharia de software, dados e inteligência artificial. 💗
+*Meu cantinho para aprender, criar e evoluir na tecnologia.*
 
-![Capa do Learning Hub](cover-web.png)
+Estudos independentes, prática e pequenas descobertas — um conceito de cada vez.
 
-## Português
+[Explorar os estudos](#explorar-os-estudos) · [English](#english)
 
-### Sobre ✨
+</div>
 
-O **Learning Hub** reúne anotações, exercícios, experimentos e registros de progresso desenvolvidos por estudo pessoal. O objetivo é construir uma base técnica sólida por meio de pesquisa, prática ativa, revisão e documentação.
+## Sobre
 
-Este repositório não é um projeto de software entregue nem uma coleção de soluções geradas por inteligência artificial. Todo conteúdo prático deve refletir o aprendizado e o trabalho independente da autora.
+O **Learning Hub** é meu espaço pessoal para reunir anotações, exercícios e experimentos em programação. Aqui registro o que estou aprendendo, as dúvidas que aparecem e as conclusões que consigo construir com a prática.
 
-Aqui, cada conceito estudado é uma nova habilidade e cada exercício concluído é um passo mais bonito rumo à confiança técnica. 🌸
+Meu foco de estudo é desenvolvimento backend com **Node.js, TypeScript, NestJS, SQL e AWS**, integrado ao frontend com **Vue.js**. Os materiais disponíveis acompanham essa construção aos poucos.
 
-### Áreas de estudo
+## Explorar os estudos
 
-- Python e fundamentos de programação
-- Ciência da computação
-- Desenvolvimento backend
-- PHP e Laravel
-- Vue
-- Engenharia de dados
-- Matemática e estatística
-- Machine learning e deep learning
-- Inteligência artificial
-- Inteligência artificial generativa
-- Engenharia de IA
+| Material | O que encontrar |
+| --- | --- |
+| [JavaScript](javascript/) | Fundamentos, funções, arrays, objetos, assincronismo e outros conceitos da linguagem. |
+| [Git](git/) | Anotações sobre comandos, branches, histórico, repositórios remotos e colaboração. |
 
-### Método de estudo 💡
+Para começar, consulte os [fundamentos de JavaScript](javascript/01-fundamentos.js) ou os [fundamentos de Git](git/01-fundamentos.md). Para uma consulta rápida, acesse o [guia de comandos Git](git/00-comandos.md).
 
-1. **Pesquisar:** consultar documentação oficial, livros, cursos e fontes acadêmicas confiáveis.
-2. **Compreender:** explicar os conceitos com as próprias palavras.
-3. **Praticar:** resolver exercícios e implementar exemplos sem copiar soluções prontas.
-4. **Experimentar:** testar hipóteses e comparar diferentes abordagens.
-5. **Registrar:** manter notas claras sobre decisões, erros e conclusões.
-6. **Revisar:** revisitar assuntos anteriores e consolidar o conhecimento.
+## Como eu estudo ✨
 
-### Estrutura atual 📚
+1. **Pesquisar** em documentação oficial, livros, cursos e fontes confiáveis.
+2. **Compreender** e explicar os conceitos com minhas próprias palavras.
+3. **Praticar** com exercícios e experimentos escritos por mim.
+4. **Registrar** dúvidas, erros, decisões e aprendizados.
+5. **Revisar** o que já estudei e experimentar outras abordagens.
+
+A prática é independente: soluções geradas por IA não devem ser apresentadas como trabalho próprio. O objetivo é entender o caminho e desenvolver autonomia para resolver problemas.
+
+## Organização
 
 ```text
 learning-hub/
-├── 001 - PHP/
-│   └── 000 - Improving the base/
-├── cover-web.png
-├── agents.md
-├── claude.md
+├── git/            # Anotações e guias de consulta
+├── javascript/     # Estudos e exercícios da linguagem
 └── readme.md
 ```
 
-A organização pode evoluir conforme novos módulos e tópicos forem estudados. Pastas e arquivos novos devem manter nomenclatura técnica em inglês e uma hierarquia clara.
+Uso português nas explicações pessoais e inglês na terminologia técnica e nos nomes de arquivos, pastas e funções. As notas devem distinguir conceitos verificados de hipóteses e interpretações pessoais.
 
-### Princípios 🤍
+Outras áreas de interesse incluem Python, PHP e Laravel, ciência da computação, engenharia de dados, matemática, estatística e inteligência artificial — incluindo machine learning, deep learning, IA generativa e engenharia de IA. Elas podem ganhar espaço conforme os estudos avançarem.
 
-- Aprendizagem independente e resolução de problemas
-- Uso de fontes oficiais e referências confiáveis
-- Nenhuma solução prática gerada por IA apresentada como trabalho próprio
-- Conceitos entendidos antes da aplicação
-- Código e exercícios escritos pela autora
-- Revisão periódica dos registros de estudo
-- Preservação da autenticidade do processo de aprendizagem
-
-### Como navegar 🌷
-
-- Comece pela pasta relacionada ao assunto estudado.
-- Leia primeiro as anotações teóricas disponíveis.
-- Faça os exercícios antes de consultar referências externas.
-- Registre erros, dúvidas e aprendizados no próprio material.
-- Revise os temas periodicamente.
-
-### Convenções
-
-- **Idioma:** português para explicações pessoais e inglês para terminologia técnica, nomes de pastas, nomes de arquivos e funções.
-- **Notas:** objetivos, conceitos, exemplos pessoais e conclusões.
-- **Prática:** resultados, testes, reflexões e próximos passos escritos pela autora.
-- **Confiabilidade:** separar fatos verificados de hipóteses ou interpretações.
-
-### Estado atual 🚀
-
-O repositório está em construção. A presença de uma pasta indica uma área de estudo iniciada ou em preparação; ela não representa necessariamente que todos os exercícios daquela área estejam concluídos.
-
----
+> 🤍 Em construção, com calma e consistência. Os materiais registram um processo de aprendizagem; a presença de um tópico não significa que ele esteja concluído.
 
 ## English
 
-### About ✨
+<details>
+<summary>A little about this learning space</summary>
 
-**Learning Hub** is a personal repository for independent study in programming, software engineering, data, and artificial intelligence.
+**Learning Hub** is my personal space for independent study: notes, exercises, experiments, questions, and lessons learned through practice.
 
-It contains notes, exercises, experiments, and progress records created through personal research and practice. This is not an application or a collection of AI-generated solutions; practical work should represent the owner's independent learning process.
+My study focus is backend development with **Node.js, TypeScript, NestJS, SQL, and AWS**, alongside **Vue.js** for frontend integration.
 
-Every concept studied becomes a new skill, and every completed exercise is another step toward technical confidence. 🌸
+- [JavaScript](javascript/): language fundamentals, functions, arrays, objects, and asynchronous programming.
+- [Git](git/): commands, branches, history, remote repositories, and collaboration.
 
-### Study areas
+My learning process is to **research, understand, practice, document, and review**. Exercises should reflect my own work; AI-generated solutions should not be presented as personal implementations.
 
-- Python and programming fundamentals
-- Computer science
-- Backend development
-- PHP and Laravel
-- Vue
-- Data engineering
-- Mathematics and statistics
-- Machine learning and deep learning
-- Artificial intelligence
-- Generative AI
-- AI engineering
+Personal explanations are written in Portuguese, with English used for technical terminology and names. Verified concepts should remain distinct from hypotheses and personal interpretations.
 
-### Learning workflow 💡
+Other interests include Python, PHP and Laravel, computer science, data engineering, mathematics, statistics, and artificial intelligence. This repository grows with my studies; a topic's presence does not imply completion.
 
-1. **Research** official documentation, books, courses, and reliable academic sources.
-2. **Understand** by explaining concepts in your own words.
-3. **Practice** by solving exercises and building examples independently.
-4. **Experiment** with hypotheses and compare approaches.
-5. **Document** decisions, errors, and conclusions clearly.
-6. **Review** earlier topics to consolidate knowledge.
-
-### Repository principles 🤍
-
-- Independent learning and problem-solving
-- Reliable and preferably official sources
-- No AI-generated implementations presented as personal work
-- Concepts understood before application
-- Exercises and code written by the learner
-- Regular review of study records
-- Authenticity of the learning process
-
-### Current structure 📚
-
-```text
-learning-hub/
-├── 001 - PHP/
-│   └── 000 - Improving the base/
-├── cover-web.png
-├── agents.md
-├── claude.md
-└── readme.md
-```
-
-The structure may evolve as new subjects and modules are added.
-
-### Conventions
-
-- Use Portuguese for personal explanations.
-- Use consistent English technical terminology.
-- Prefer English for technical folder, file names and functions.
-- Keep verified information separate from hypotheses and personal interpretations.
-- Do not add finished implementations or study achievements without the learner's own work.
-
-### Current status 🚀
-
-This repository is under continuous development. A folder represents an area that has been started or is being prepared; it does not imply that every exercise in that area has been completed.
+</details>
 
 ---
 
-**Aprenda de forma independente. Pratique com consistência. Entenda profundamente.**
+<div align="center">
 
-**Learn independently. Practice consistently. Understand deeply.**
+*Aprender com curiosidade. Praticar com intenção. Evoluir no meu ritmo.* 🌸
+
+</div>
